@@ -2,7 +2,7 @@
 
 ## Marissa Reuther
 
-## December 2017
+### December 2017
 
 The goal of this project is to determine if there is any correlation between a recession and crime rates. In other words, is there more crime during a recession? One indicator of a recession is when Gross Domestic Product has a negative growth rate. I want to determine if there is any correlation between negative GDP growth rates and nine different classifications of crime. 
 
